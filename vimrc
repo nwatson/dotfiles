@@ -100,6 +100,6 @@ if isdirectory(expand('~/.cache/vim'))
     set undodir^=~/.cache/vim/undo//
   endif
 endif
-if exists('+undofile')
-  set undofile
-endif
+"if exists('+undofile')
+"  set undofile
+"endif
