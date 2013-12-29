@@ -126,6 +126,8 @@ then
     alias search=mdfind -onlyin
 fi
 
+alias svim=sudoedit
+
 #### Misc
 
 # Use fancy history locking
