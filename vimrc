@@ -103,3 +103,8 @@ endif
 "if exists('+undofile')
 "  set undofile
 "endif
+
+" nerf tab complete
+let g:SuperTabMappingForward = '<c-tab>'
+let g:SuperTabMappingBackward = '<s-c-tab>'
+let g:SuperTabMappingTabLiteral = '<tab>'
