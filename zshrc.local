@@ -166,6 +166,8 @@ then
     source ~/.zsh/modules/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 fi
 
+watch=""
+
 # Main
 #ZSH_HIGHLIGHT_STYLES[default]:=none
 ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=124'
