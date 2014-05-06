@@ -127,6 +127,7 @@ then
 fi
 
 alias svim=sudoedit
+source .zshrc.priv
 
 #### Misc
 
